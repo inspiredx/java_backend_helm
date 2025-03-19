@@ -9,6 +9,6 @@ entries:
     name: java-backend
     type: application
     urls:
-    - https://gitlab.com/georgiykapustinx/java_backend_helm/-/raw/main/java-backend-1.0.0.tgz
+    - https://inspiredx.github.io/java_backend_helm//-/raw/main/java-backend-1.0.0.tgz
     version: 1.0.0
 generated: "2025-03-19T03:35:34.364120555+03:00"
