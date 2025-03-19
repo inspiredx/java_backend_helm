@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  java-backend:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-03-19T03:35:34.365212175+03:00"
+    description: API app made with Java
+    digest: 4a0060703344162eed10f4a6c35af98cd8b4db62703154b328166fb67d333bf2
+    name: java-backend
+    type: application
+    urls:
+    - https://gitlab.com/georgiykapustinx/java_backend_helm/-/raw/main/java-backend-1.0.0.tgz
+    version: 1.0.0
+generated: "2025-03-19T03:35:34.364120555+03:00"
